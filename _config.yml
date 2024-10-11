@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Dylan's homepage
+title: Dylan's personal website
 description: Project portfolio
+theme: minima
+baseurl: ""
+url: "https://dylanskeating.github.io" # Replace with your GitHub URL
